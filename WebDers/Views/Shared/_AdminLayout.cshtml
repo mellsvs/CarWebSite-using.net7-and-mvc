@@ -1,0 +1,57 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<title>ADMİN PANELİ</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="~/css/site.css"asp-append-version="true">
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+
+<link "href="~/WebDers/wwwroot/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+
+
+
+
+<body>
+
+    <!-- Sidebar -->
+    <div class="w3-sidebar w3-light-grey w3-bar-block" style="width:15%">
+        <h3 class="w3-bar-item">Menü</h3>
+        <a class="w3-bar-item w3-button" asp-area="" asp-controller="Admin" asp-action="AdminAnaSayfa">Bloglar</a>
+        <a class="w3-bar-item w3-button" asp-area="" asp-controller="ArabaMarka" asp-action="AdminAnaSayfa">Markalar</a>
+        <a class="w3-bar-item w3-button" asp-area="" asp-controller="Brand" asp-action="AdminAnaSayfa">Modeller</a>
+        <a class="w3-bar-item w3-button" asp-area="" asp-controller="Login" asp-action="Logout">Çıkış Yap</a>
+    </div>
+
+    <!-- Page Content -->
+    <div style="margin-left:15%">
+
+        <div class="w3-container w3-teal">
+            <h4>Admin Yönetim Paneli</h4>
+        </div>
+
+
+
+        <div class="w3-container">
+            <main role= "main" class="pb-3">
+
+          
+            @RenderBody()
+            </main>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)

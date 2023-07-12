@@ -1,0 +1,73 @@
+﻿@model IEnumerable<WebDers.Service.Models.BrandDTO>
+
+
+@{
+    ViewData["Title"] = "AdminAnaSayfa";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+
+<body>
+
+
+<h2>Araba Modelleri </h2>
+<br />
+<br />
+    @if (TempData["success"] != null)
+    {
+        @section Scripts{
+        <script>
+            toastr.success('@TempData["success"]');
+        </script>
+
+    }
+    }
+    @if (TempData["error"] != null)
+    {
+        @section Scripts{
+        <script>
+            toastr.error('@TempData["error"]');
+        </script>
+
+    }
+    }
+
+
+
+<table class="table table-bordered">
+    <tr>
+     
+        <th>MARKA</th>
+        <th>MODEL</th>
+        <th>FİYAT</th>
+        <th>YIL</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+           
+            <td>@x.ArabaMarkaName</td>
+            <td>@x.BrandName</td>
+            <td>@x.BrandPrice</td>
+            <td>@x.BrandYear</td>
+                <td> <a class="btn btn-danger" asp-area="" asp-controller="Brand" asp-action="BlogSil"asp-route-id="@x.BrandID">Sil</a></td>
+                <td> <a class="btn btn-primary" asp-area="" asp-controller="Brand" asp-action="Edit" asp-route-id="@x.BrandID">Düzenle</a></td>
+             
+        </tr>
+        }
+    </table>
+  
+
+        <a href="/Brand/YeniBlog/" class="btn btn-primary">YENİ ARABA MODELİ EKLE</a>
+
+        </body>
+
+@*    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }*@

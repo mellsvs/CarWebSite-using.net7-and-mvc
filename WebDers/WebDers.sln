@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebDers", "WebDers.csproj", "{27A0CA7A-8715-463B-83BD-840E14BDE0AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDers.Service", "..\WebDers.Service\WebDers.Service.csproj", "{75FC378C-6C13-4656-8E49-C71E7982F274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A0CA7A-8715-463B-83BD-840E14BDE0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A0CA7A-8715-463B-83BD-840E14BDE0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A0CA7A-8715-463B-83BD-840E14BDE0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A0CA7A-8715-463B-83BD-840E14BDE0AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FC378C-6C13-4656-8E49-C71E7982F274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FC378C-6C13-4656-8E49-C71E7982F274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FC378C-6C13-4656-8E49-C71E7982F274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FC378C-6C13-4656-8E49-C71E7982F274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2486F0E0-661F-41D2-AF86-FB136E626EE3}
+	EndGlobalSection
+EndGlobal

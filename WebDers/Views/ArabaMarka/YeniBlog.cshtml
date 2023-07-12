@@ -1,0 +1,39 @@
+﻿@model WebDers.Service.Models.ArabaMarka
+
+@{
+    ViewData["Title"] = "YeniBlog";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Kategori Ekle</h1>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+<body>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Save">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="ArabaMarkaName" class="control-label"></label>
+                    <input asp-for="ArabaMarkaName" class="form-control" />
+                    <span asp-validation-for="ArabaMarkaName" class="text-danger"></span>
+                </div>
+               
+                <div class="form-group">
+                    <input type="submit" value="Kaydet" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a class="nav-link text-dark" asp-area="" asp-controller="ArabaMarka" asp-action="AdminAnaSayfa">Listeye Geri Dön</a>
+    </div>
+</body>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

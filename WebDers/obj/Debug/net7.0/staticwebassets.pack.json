@@ -1,0 +1,989 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebDers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebDers.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\about.html",
+      "PackagePath": "staticwebassets\\Design\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\css\\style-liberty.css",
+      "PackagePath": "staticwebassets\\Design\\assets\\css\\style-liberty.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Design\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Design\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Design\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Design\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Design\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Design\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\banner1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\banner1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\banner2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\banner2 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\banner3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\banner3 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\banner4 - Copy.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\banner4 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\c3.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\c4.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\date.png",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\date.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\dots.png",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\dots.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\down.png",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\down.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g10.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\img-sprite.png",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\img-sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\team1.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\team1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\team2.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\team2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\team3.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\team3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\images\\team4.jpg",
+      "PackagePath": "staticwebassets\\Design\\assets\\images\\team4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\all.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\jquery.countup.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\jquery.countup.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\jquery.zoomslider.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\jquery.zoomslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\assets\\js\\theme-change.js",
+      "PackagePath": "staticwebassets\\Design\\assets\\js\\theme-change.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\blog-single.html",
+      "PackagePath": "staticwebassets\\Design\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\blog.html",
+      "PackagePath": "staticwebassets\\Design\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\contact.html",
+      "PackagePath": "staticwebassets\\Design\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\index.html",
+      "PackagePath": "staticwebassets\\Design\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\landing-single.html",
+      "PackagePath": "staticwebassets\\Design\\landing-single.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\liberty-license-W3Layouts.txt",
+      "PackagePath": "staticwebassets\\Design\\liberty-license-W3Layouts.txt"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\pricing.html",
+      "PackagePath": "staticwebassets\\Design\\pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Design\\services.html",
+      "PackagePath": "staticwebassets\\Design\\services.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login_v5\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login_v5\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\Linearicons-Free-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login_v5\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\Login_v5\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login_v5\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\images\\icons\\icon-google.png",
+      "PackagePath": "staticwebassets\\Login_v5\\images\\icons\\icon-google.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\Login_v5\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\images\\icons\\symbol-01.png",
+      "PackagePath": "staticwebassets\\Login_v5\\images\\icons\\symbol-01.png"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\index.html",
+      "PackagePath": "staticwebassets\\Login_v5\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login_v5\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\Login_v5\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login_v5\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\melte\\OneDrive\\Masaüstü\\kisisel\\WebFinalTümDosyalar\\WebDers\\wwwroot\\lib\\jquery\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.validate.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebDers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebDers.props",
+      "PackagePath": "build\\WebDers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebDers.props",
+      "PackagePath": "buildMultiTargeting\\WebDers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebDers.props",
+      "PackagePath": "buildTransitive\\WebDers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

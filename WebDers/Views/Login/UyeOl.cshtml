@@ -1,0 +1,66 @@
+﻿@model WebDers.Service.DTO.UyeOlViewModel
+
+@{
+    ViewData["Title"] = "Üye Ol";
+    Layout = "~/Views/Shared/_GirisLayout.cshtml";
+}
+
+<h1>Üye Ol</h1>
+
+@if (TempData["success"] != null)
+{
+        <div class="alert alert-success">@TempData["success"]</div>
+}
+
+@if (TempData["error"] != null)
+{
+        <div class="alert alert-danger">@TempData["error"]</div>
+}
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Uye Ol </title>
+    <!-- google fonts -->
+    <link href="//fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap"
+          rel="stylesheet">
+    <!-- google fonts -->
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="~/Design/assets/css/style-liberty.css">
+    <!-- Template CSS -->
+</head>
+<form method="post">
+    <div class="form-group">
+        <label for="UserName">Kullanıcı Adı</label>
+        <input type="text" class="form-control" id="UserName" name="UserName" value="@Model.UserName" required>
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="UserName">Kullanıcı Soyadı</label>
+        <input type="text" class="form-control" id="UserSurname" name="UserSurname" value="@Model.UserSurname" required>
+        <span asp-validation-for="UserSurname" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="UserEmail">E-posta Adresi</label>
+        <input type="email" class="form-control" id="UserEmail" name="UserEmail" value="@Model.UserEmail" required>
+        <span asp-validation-for="UserEmail" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Password">Şifre</label>
+        <input type="password" class="form-control" id="Password" name="Password" required>
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="ConfirmPassword">Şifre Tekrarı</label>
+        <input type="password" class="form-control" id="ConfirmPassword" name="ConfirmPassword" required>
+        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Üye Ol</button>
+</form>

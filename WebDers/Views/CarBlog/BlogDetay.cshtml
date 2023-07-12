@@ -1,0 +1,101 @@
+﻿@model WebDers.Service.Models.CarBlog
+
+@{
+    ViewData["Title"] = "BlogDetay";
+    Layout = "~/Views/Shared/_GirisLayout.cshtml";
+}
+
+<html>
+
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title> About </title>
+        <!-- google fonts -->
+        <link href="//fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <link href="//fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap"
+              rel="stylesheet">
+        <!-- google fonts -->
+        <!-- Template CSS -->
+        <link rel="stylesheet" href="~/Design/assets/css/style-liberty.css">
+        <!-- Template CSS -->
+    </head>
+<body>
+    <hr />
+    <hr />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+
+
+<section class="blog-detail-section py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-fluid rounded" src="@Model.CarBlogImage" alt="CarBlogImg">
+            </div>
+            <div class="col-md-6">
+                <h2 class="blog-detail-title mt-4">@Model.CarBlogTittle</h2>
+                <hr />
+                <p class="blog-detail-description">@Model.CarBlogDescription</p>
+                <p class="blog-detail-date">Tarih: @Model.CarBlogDate.ToString("dd.MM.yyyy")</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="container">
+    <div class="mt-4">
+        <a class="btn btn-secondary" asp-action="BlogGetir">Bloglara Geri Dön</a>
+    </div>
+</div>
+<!-- Template JavaScript -->
+<script src="~/Design/assets/js/jquery-3.3.1.min.js"></script>
+<script src="~/Design/assets/js/theme-change.js"></script>
+<!-- stats number counter-->
+<script src="~/Design/assets/js/jquery.waypoints.min.js"></script>
+<script src="~/Design/assets/js/jquery.countup.js"></script>
+<script>
+    $('.counter').countUp();
+</script>
+<!-- //stats number counter -->
+<!--/MENU-JS-->
+<script>
+    $(window).on("scroll", function () {
+        var scroll = $(window).scrollTop();
+
+        if (scroll >= 80) {
+            $("#site-header").addClass("nav-fixed");
+        } else {
+            $("#site-header").removeClass("nav-fixed");
+        }
+    });
+
+    //Main navigation Active Class Add Remove
+    $(".navbar-toggler").on("click", function () {
+        $("header").toggleClass("active");
+    });
+    $(document).on("ready", function () {
+        if ($(window).width() > 991) {
+            $("header").removeClass("active");
+        }
+        $(window).on("resize", function () {
+            if ($(window).width() > 991) {
+                $("header").removeClass("active");
+            }
+        });
+    });
+</script>
+<!--//MENU-JS-->
+
+<script src="~/Design/assets/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+
+

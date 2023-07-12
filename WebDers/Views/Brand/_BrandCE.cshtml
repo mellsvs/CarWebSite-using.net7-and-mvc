@@ -1,0 +1,30 @@
+﻿@model WebDers.Service.Models.BrandDTO
+
+<div class="form-group">
+    <label asp-for="BrandName" class="control-label"></label>
+    <input asp-for="BrandName" class="form-control" />
+    <span asp-validation-for="BrandName" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="BrandPrice" class="control-label"></label>
+    <input asp-for="BrandPrice" class="form-control" />
+    <span asp-validation-for="BrandPrice" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="BrandYear" class="control-label"></label>
+    <input asp-for="BrandYear" class="form-control" />
+    <span asp-validation-for="BrandYear" class="text-danger"></span>
+</div>
+<div class="form-group">
+    <label asp-for="ArabaMarkaID" class="control-label"></label>
+    @*  <input asp-for="ArabaMarkaID" class="form-control" /> *@
+    <select class="form-control" asp-for="ArabaMarkaID" asp-items="@(new SelectList(Model.ArabaMarkaList,"ArabaMarkaID","ArabaMarkaName"))">
+        <option value="0">Seçiniz</option>
+    </select>
+
+
+    @* <select asp-for="ArabaMarkaID" asp-items="@(new SelectList(ViewBag.ArabaMarkaList, "ArabaMarkaID", "ArabaMarkaName"))"></select>
+    *@
+
+    <span asp-validation-for="ArabaMarkaID" class="text-danger"></span>
+</div>

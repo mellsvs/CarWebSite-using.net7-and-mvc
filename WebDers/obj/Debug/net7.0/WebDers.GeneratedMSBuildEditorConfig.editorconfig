@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebDers
+build_property.RootNamespace = WebDers
+build_property.ProjectDir = C:\Users\melte\OneDrive\Masaüstü\kisisel\WebFinalTümDosyalar\WebDers\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\melte\OneDrive\Masaüstü\kisisel\WebFinalTümDosyalar\WebDers
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Admin/AdminAnaSayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5BbmFTYXlmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Admin/YeniBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cWWVuaUJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/ArabaMarka/AdminAnaSayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFNYXJrYVxBZG1pbkFuYVNheWZhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/ArabaMarka/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFNYXJrYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/ArabaMarka/YeniBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJhYmFNYXJrYVxZZW5pQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Brand/AdminAnaSayfa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcQWRtaW5BbmFTYXlmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Brand/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Brand/YeniBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcWWVuaUJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Brand/_BrandCE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRcX0JyYW5kQ0UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/CarBlog/BlogDetay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyQmxvZ1xCbG9nRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/CarBlog/BlogGetir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyQmxvZ1xCbG9nR2V0aXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Home/Iletisim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbGV0aXNpbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Login/IndexGiris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXhHaXJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Login/UyeOl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXllT2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Shared/_GirisLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9HaXJpc0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/_Messages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX01lc3NhZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/melte/OneDrive/Masaüstü/kisisel/WebFinalTümDosyalar/WebDers/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r6wm6nyzkx

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<WebDers.Service.Models.CarBlog>
+@{
+    ViewData["Title"] = "BlogGetir";
+    Layout = "~/Views/Shared/_GirisLayout.cshtml";
+}
+
+<h1>BlogGetir</h1>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> About </title>
+    <!-- google fonts -->
+    <link href="//fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap"
+          rel="stylesheet">
+    <!-- google fonts -->
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="~/Design/assets/css/style-liberty.css">
+    <!-- Template CSS -->
+</head>
+<section class="w3l-blog-block2 mt-md-5 pb-5">
+    <div class="container mb-lg-4">
+        <div class="row">
+            @if (Model != null)
+            {
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="CarBlog" asp-action="BlogDetay" asp-route-id="@item.CarBlogID">
+                                    <img class="card-img-bottom d-block radius-image" src="@item.CarBlogImage" alt="CarBlogImg">
+                                </a>
+                            </div>
+                            <div class="card-body p-3 blog-details">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="CarBlog" asp-action="BlogDetay" asp-route-id="@item.CarBlogID">
+                                    @item.CarBlogTittle
+                                </a>
+                                @{
+                                    string limitedDescription = string.Join(" ", item.CarBlogDescription.Split().Take(20));
+                                }
+                                <p>
+                                    @limitedDescription ...
+                                </p>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="CarBlog" asp-action="BlogDetay" asp-route-id="@item.CarBlogID">
+                                    Devamını Oku
+                                </a>
+                                <ul class="blog-meta">
+                                    <li class="meta-item blog-lesson">
+                                        @{
+                                            DateTime carBlogDate = item.CarBlogDate;
+                                            string formattedDate = carBlogDate.ToString("dd.MM.yyyy");
+                                        }
+                                        <span class="meta-value">@formattedDate</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</section>

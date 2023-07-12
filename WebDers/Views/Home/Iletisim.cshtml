@@ -1,0 +1,124 @@
+﻿@model IEnumerable< WebDers.Service.Models.Iletisim>
+@{
+    ViewData["Title"] = "İletisim";
+    Layout = "~/Views/Shared/_GirisLayout.cshtml";
+}
+
+
+
+<!doctype html>
+<html lang="zxx">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> İletişim </title>
+    <!-- google fonts -->
+    <link href="//fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap"
+          rel="stylesheet">
+    <!-- google fonts -->
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="~/Design/assets/css/style-liberty.css">
+    <!-- Template CSS -->
+</head>
+<body>
+
+    <section class="w3l-about-breadcrumb text-left">
+        <div class="breadcrumb-bg breadcrumb-bg-about py-sm-5 py-4">
+            <div class="container py-2">
+                <h2 class="title">İletişim</h2>
+
+            </div>
+            <p>
+                0(224) 757 45 45
+            </p>
+        </div>
+    </section>
+
+    @if (Model != null)
+    {
+        @foreach (var item in Model)
+        {
+
+            <section class="w3l-cta4 py-5">
+                <div class="container py-lg-5">
+                    <div class="ab-section text-center">
+                        <h6 class="Bayilerinizde ki Araba Takibini Kolaylaştıran Site"></h6>
+
+                        <p class="py-3 mb-3">
+                            Bizimle İletişime Geçin
+                        </p>
+                     
+                    </div>
+                    <div class="row mt-5">
+                        <div class="col-md-9 mx-auto">
+                            <img src="@item." class="img-fluid" alt="">
+                        </div>
+                    </div>
+                </div>
+            </section>
+        }
+
+    }
+    
+    <p>
+        İletişim Bilgileri: <br />
+
+        Telefon: 0224 757 45 45 <br />
+        E-posta: carBlog@gmail.com <br />
+        Adres: Ankara, Turkey <br />
+        <br />
+        Yukarıdaki iletişim bilgilerimiz aracılığıyla bizimle iletişime geçebilirsiniz. Telefon numaramız üzerinden bize ulaşarak hızlı bir şekilde destek alabilir veya sorularınızı yöneltebilirsiniz. E-posta adresimizi kullanarak yazılı olarak iletişim kurabilir, görüşlerinizi paylaşabilir veya detaylı bilgi taleplerinizi iletebilirsiniz.
+
+        Ayrıca, fiziksel olarak bizi ziyaret etmek isterseniz adresimiz Ankara, Turkey şeklindedir. Sizleri misafir etmek ve doğrudan yanıtlarınızı sunmak için bekliyor olacağız.
+
+        Bize ulaşmak için telefon, e-posta veya adres bilgilerimizden herhangi birini kullanabilirsiniz. Memnuniyetle size yardımcı olmak için buradayız.
+    </p>
+
+
+
+    <!-- Template JavaScript -->
+    <script src="~/Design/assets/js/jquery-3.3.1.min.js"></script>
+    <script src="~/Design/assets/js/theme-change.js"></script>
+    <!-- stats number counter-->
+    <script src="~/Design/assets/js/jquery.waypoints.min.js"></script>
+    <script src="~/Design/assets/js/jquery.countup.js"></script>
+    <script>
+        $('.counter').countUp();
+    </script>
+    <!-- //stats number counter -->
+    <!--/MENU-JS-->
+    <script>
+        $(window).on("scroll", function () {
+            var scroll = $(window).scrollTop();
+
+            if (scroll >= 80) {
+                $("#site-header").addClass("nav-fixed");
+            } else {
+                $("#site-header").removeClass("nav-fixed");
+            }
+        });
+
+        //Main navigation Active Class Add Remove
+        $(".navbar-toggler").on("click", function () {
+            $("header").toggleClass("active");
+        });
+        $(document).on("ready", function () {
+            if ($(window).width() > 991) {
+                $("header").removeClass("active");
+            }
+            $(window).on("resize", function () {
+                if ($(window).width() > 991) {
+                    $("header").removeClass("active");
+                }
+            });
+        });
+    </script>
+    <!--//MENU-JS-->
+
+    <script src="~/Design/assets/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

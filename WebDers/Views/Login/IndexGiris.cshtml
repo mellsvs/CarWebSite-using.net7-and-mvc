@@ -1,0 +1,92 @@
+﻿@model WebDers.Service.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_GirisLayout.cshtml";
+}
+@if (TempData["success"] != null)
+{
+    @section Scripts{
+    <script>
+        toastr.succes('@TempData["success"]');
+    </script>
+    }
+}
+@if (TempData["error"] != null)
+{
+    @section Scripts{
+    <script>
+        toastr.succes('@TempData["error"]');
+    </script>
+
+    }
+}
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+   
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title> Login </title>
+        <!-- google fonts -->
+        <link href="//fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+        <link href="//fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap"
+              rel="stylesheet">
+        <!-- google fonts -->
+        <!-- Template CSS -->
+        <link rel="stylesheet" href="~/Design/assets/css/style-liberty.css">
+        <!-- Template CSS -->
+
+</head>
+<h1>Giriş Yap</h1>
+
+<body>
+    <hr />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <p>
+        Giriş Yapmakta Problem Mi Yaşıyorsunuz ? <br />
+
+        Hesabınız Yok ise Üye Olun veya Tekrar Deneyin
+
+    </p>
+ 
+
+    <div class="row">
+
+        <div class="col-md-4">
+            <form asp-action="Login">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="UserEmail" class="control-label"></label>
+                    <input asp-for="UserEmail" class="form-control" />
+                    <span asp-validation-for="UserEmail" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input type="password" asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Giriş Yap" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="UyeOl">Uye ol</a>
+    </div>
+
+</body>
+
+@*@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}*@

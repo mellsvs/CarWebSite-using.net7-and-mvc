@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WebDers.Service.Models.CarBlog>
+
+
+@{
+    ViewData["Title"] = "AdminAnaSayfa";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+
+<body>
+
+
+<h2>Blog Listesi</h2>
+<br />
+<br />
+    @if (TempData["success"] != null)
+    {
+        @section Scripts{
+        <script>
+           
+
+            
+            toastr.success('@TempData["Giriş Başarılı"]');
+        </script>
+
+    }
+    }
+    @if (TempData["error"] != null)
+    {
+        @section Scripts{
+        <script>
+            toastr.error('@TempData["error"]');
+        </script>
+
+    }
+    }
+<br />
+
+
+
+    Hoşgeldiniz @TempData["user"]
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>BAŞLIK</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    @foreach (var x in Model)
+    {
+        <tr>
+            <td>@x.CarBlogID</td>
+            <td>@x.CarBlogTittle</td>
+                <td> <a class="btn btn-danger" asp-area="" asp-controller="Admin" asp-action="BlogSil" asp-route-id="@x.CarBlogID">Sil</a></td>
+                <td> <a class="btn btn-primary" asp-area="" asp-controller="Admin" asp-action="Edit"asp-route-id="@x.CarBlogID">Düzenle</a></td>
+             
+        </tr>
+        }
+    </table>
+  
+
+        <a href="/Admin/YeniBlog/" class="btn btn-primary">YENİ BLOG </a>
+
+        </body>
+
+@*    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }*@
